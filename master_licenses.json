@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "email": "testuser@example.com",
+      "project_access": [
+        {
+          "project_name": "PyQt_Stock_Checker",
+          "access": "on",
+          "expiry_date": "2099-12-31",
+          "device_code": "",
+          "activation_date": ""
+        },
+        {
+          "project_name": "Chrome_Extension_XYZ",
+          "access": "off",
+          "expiry_date": "2025-12-01",
+          "device_code": "",
+          "activation_date": ""
+        }
+      ]
+    },
+    {
+        "email": "anotheruser@example.com",
+        "project_access": [
+          {
+            "project_name": "PyQt_Stock_Checker",
+            "access": "off",
+            "expiry_date": "2025-11-30",
+            "device_code": "",
+            "activation_date": ""
+          }
+        ]
+    }
+  ]
+}
