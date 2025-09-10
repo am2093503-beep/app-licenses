@@ -24,7 +24,7 @@
       "project_access": [
         {
           "project_name": "PyQt_Stock_Checker",
-          "access": "on",
+          "access": "off",
           "expiry_date": "2025-09-11",
           "device_code": "07C9611_O11B554925",
           "activation_date": ""
@@ -44,16 +44,28 @@
       ]
     },
     {
-  "email": "@gmail.com",
-  "project_access": [
+      "email": "almahmud8677@gmail.com",
+      "project_access": [
+        {
+          "project_name": "PyQt_Stock_Checker",
+          "access": "on",
+          "expiry_date": "2026-09-10",
+          "device_code": "",
+          "activation_date": ""
+        }
+      ]
+    },
     {
-      "project_name": "PyQt_Stock_Checker",
-      "access": "off",
-      "expiry_date": "2025-09-11",
-      "device_code": "07C9611_O11B554925",
-      "activation_date": ""
+      "email": "taohidulislamrifat4@gmail.com",
+      "project_access": [
+        {
+          "project_name": "PyQt_Stock_Checker",
+          "access": "on",
+          "expiry_date": "2025-9-29",
+          "device_code": "",
+          "activation_date": ""
+        }
+      ]
     }
-  ]
-},
   ]
 }
