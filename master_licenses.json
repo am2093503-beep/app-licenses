@@ -19,27 +19,29 @@
         }
       ]
     },
-     {
-        "email": "oniy8746@gmail.com",
-        "project_access": [
-          {
-            "project_name": "PyQt_Stock_Checker",
-            "access": "on",
-            "expiry_date": "2025-09-11",
-            "device_code": "",
-            "activation_date": ""
-          },
     {
-        "email": "anotheruser@example.com",
-        "project_access": [
-          {
-            "project_name": "PyQt_Stock_Checker",
-            "access": "off",
-            "expiry_date": "2025-11-30",
-            "device_code": "",
-            "activation_date": ""
-          }
-        ]
+      "email": "oniy8746@gmail.com",
+      "project_access": [
+        {
+          "project_name": "PyQt_Stock_Checker",
+          "access": "on",
+          "expiry_date": "2025-09-11",
+          "device_code": "",
+          "activation_date": ""
+        }
+      ]
+    },
+    {
+      "email": "anotheruser@example.com",
+      "project_access": [
+        {
+          "project_name": "PyQt_Stock_Checker",
+          "access": "off",
+          "expiry_date": "2025-11-30",
+          "device_code": "",
+          "activation_date": ""
+        }
+      ]
     }
   ]
 }
